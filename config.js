@@ -17,4 +17,4 @@ http.createServer(function(request,response){
   });
 }).listen(3366);
 
-console.log('Server runing at http://127.0.0.1:8080/');
+console.log('Server runing at http://127.0.0.1:3366/');
